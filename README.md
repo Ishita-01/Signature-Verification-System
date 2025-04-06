@@ -1,1 +1,1 @@
-# Signature-Verification-System (Cognitive Project)
+# Signature-Verification-System 
